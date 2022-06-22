@@ -23,5 +23,5 @@ Privat crypt Cobalt Strike and powershell
 
 # The entire crypt goes through an obfuscator, which produces a unique script with each generation. Recrypt is not required!
 
-DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES. Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
+DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES. Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/TrewisWork#
 
